@@ -1,4 +1,4 @@
-)# 💫 About Me:
+💫 About Me:
 🔭 Sou estudante de Cyber Security.<br>👯 Estou à procura de estágio.<br>🌱 Atualmente, estou aprendendo.
 
 
